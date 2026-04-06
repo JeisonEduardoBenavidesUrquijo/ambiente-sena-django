@@ -1,4 +1,4 @@
-#!/isr/bin/env bash
+#!/usr/bin/env bash
 
 set -o errexit
 
